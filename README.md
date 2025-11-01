@@ -12,6 +12,8 @@ The goal of my project is to build a classifier that can distinguish between fou
 
 Figure 1 illustrates the overall idea of the proposed system. The baseline model takes only chest X-ray images as input, processes them through a CNN, and outputs one of four disease categories. In the improved version, metadata (age, gender, view position) is concatenated with the image features before classification, creating a multimodal architecture.
 
+<img src="APS360 Diagram (2).jpg" alt="Figure 1" width="600">
+
 > **Figure 1:** Proposed architecture: CNN for image encoding, Meta Data branch, fusion via Classifier, and final Output.
 
 ---
