@@ -67,6 +67,8 @@ You can describe the data that you have collected and cleaned. Be clear and spec
 
 You can provide a diagram to describe the baseline model that you have tested and how it was/will be compared with your primary neural network model. The baseline model can be a simple machine learning model (e.g., SVM, Random Forests, Models from labs and tutorials, etc.), a hand-coded heuristic model (that does not use machine learning), or something else. A model that performs randomly is not acceptable. The expectations for the baseline model will vary from project to project.
 
+**Note:** A brief description of the baseline model is sufficient for the progress report. You can reference your appendix if you would like to include more detailed implementation information.
+
 You should also provide at least one **quantitative and qualitative result.**
 These results could be learning curves, or results showing the performance of the model on selected samples of data. The focus here is on assessing the feasibility of your model to achieve the project objectives.
 
